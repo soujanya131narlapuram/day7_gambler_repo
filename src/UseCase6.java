@@ -48,7 +48,7 @@ public class UseCase6 {
                 }
             }
             System.out.println("Number of days won in the month"+(months+1)+"="+number_of_days_won);
-            System.out.println("Number of days lost in the month"+(months+1)+"="+number_of_days_won);
+            System.out.println("Number of days lost in the month"+(months+1)+"="+number_of_days_lost);
             System.out.println("Luckiest day in the month"+(months+1)+"="+luckiest_day);
             System.out.println("Unluckiest day in the month"+(months+1)+"="+unluckiest_day);
         }
