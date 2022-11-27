@@ -33,7 +33,7 @@ public class UseCase5 {
                 }
             }
             System.out.println("Number of days won in the month"+(months+1)+"="+number_of_days_won);
-            System.out.println("Number of days lost in the month"+(months+1)+"="+number_of_days_won);
+            System.out.println("Number of days lost in the month"+(months+1)+"="+number_of_days_lost);
         }
         return;
     }
