@@ -1,4 +1,4 @@
-public class UseCase1 {
+public class Gambler {
     public  static void  start_gambling(){
         int num_games=100;
         for (int i=0;i<num_games;i++){
