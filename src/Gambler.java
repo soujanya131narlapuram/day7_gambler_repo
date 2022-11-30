@@ -1,4 +1,4 @@
-public class UseCase3 {
+public class Gambler {
     public  static void  play_game_until_condition(){
         int num_games=0;
         boolean condition=true;
