@@ -1,4 +1,4 @@
-public class UseCase5 {
+public class Gambler {
     public  static void  twelve_months_play(){
         for(int months=0;months<12;months++) {
             int number_of_days_won=0;
