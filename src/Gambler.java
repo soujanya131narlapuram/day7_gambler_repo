@@ -1,4 +1,4 @@
-public class UseCase6 {
+public class Gambler {
     public  static void  luckiest_day(){
         for(int months=0;months<12;months++) {
             int number_of_days_won=0;
